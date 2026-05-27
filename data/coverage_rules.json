@@ -1,0 +1,52 @@
+{
+    "cataract surgery": {
+        "covered": true,
+        "sub_limit": 40000,
+        "waiting_period_months": 24
+    },
+    "diabetes": {
+        "covered": true,
+        "sub_limit": 0,
+        "waiting_period_months": 36
+    },
+    "appendectomy": {
+        "covered": true,
+        "sub_limit": 100000,
+        "waiting_period_months": 0
+    },
+    "maternity": {
+        "covered": true,
+        "sub_limit": 50000,
+        "waiting_period_months": 48
+    },
+    "knee replacement": {
+        "covered": true,
+        "sub_limit": 200000,
+        "waiting_period_months": 24
+    },
+    "dental surgery": {
+        "covered": false,
+        "sub_limit": 0,
+        "waiting_period_months": 0
+    },
+    "lasik": {
+        "covered": false,
+        "sub_limit": 0,
+        "waiting_period_months": 0
+    },
+    "kidney stone removal": {
+        "covered": true,
+        "sub_limit": 80000,
+        "waiting_period_months": 24
+    },
+    "hernia": {
+        "covered": true,
+        "sub_limit": 60000,
+        "waiting_period_months": 24
+    },
+    "covid-19 hospitalization": {
+        "covered": true,
+        "sub_limit": 0,
+        "waiting_period_months": 0
+    }
+}

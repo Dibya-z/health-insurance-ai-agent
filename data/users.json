@@ -1,0 +1,29 @@
+[
+    {
+        "user_id": "U001",
+        "name": "Alice Johnson",
+        "policy_type": "Gold Health Plan",
+        "sum_insured": 500000,
+        "co_pay_percentage": 0.10,
+        "no_claim_bonus_percentage": 0.20,
+        "waiting_period_waived": false
+    },
+    {
+        "user_id": "U002",
+        "name": "Bob Smith",
+        "policy_type": "Platinum Health Plan",
+        "sum_insured": 1000000,
+        "co_pay_percentage": 0.05,
+        "no_claim_bonus_percentage": 0.10,
+        "waiting_period_waived": true
+    },
+    {
+        "user_id": "U003",
+        "name": "Charlie Brown",
+        "policy_type": "Silver Health Plan",
+        "sum_insured": 300000,
+        "co_pay_percentage": 0.20,
+        "no_claim_bonus_percentage": 0.0,
+        "waiting_period_waived": false
+    }
+]

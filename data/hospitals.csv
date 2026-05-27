@@ -1,0 +1,21 @@
+name,city,area,specialties,cashless,rating
+Apollo Hospitals,Bangalore,Jayanagar,ophthalmology;cardiology,True,4.5
+Fortis Hospital,Bangalore,Bannerghatta,orthopedics;general,True,4.2
+Manipal Hospital,Bangalore,Old Airport Road,cardiology;neurology;maternity,True,4.7
+Aster CMI,Bangalore,Hebbal,gastroenterology;orthopedics,False,4.3
+Sakra World Hospital,Bangalore,Bellandur,orthopedics;neurology,True,4.4
+Max Super Speciality,Delhi,Saket,oncology;cardiology,True,4.6
+Medanta The Medicity,Delhi,Gurgaon,cardiology;neurology;general,True,4.8
+Sir Ganga Ram Hospital,Delhi,Rajinder Nagar,maternity;gastroenterology,False,4.5
+AIIMS,Delhi,Ansari Nagar,general;all,False,4.9
+Lilavati Hospital,Mumbai,Bandra,maternity;cardiology,True,4.5
+Hinduja Hospital,Mumbai,Mahim,oncology;general,True,4.6
+Nanavati Hospital,Mumbai,Vile Parle,orthopedics;neurology,True,4.3
+KEM Hospital,Mumbai,Parel,general;all,False,4.4
+Apollo Health City,Hyderabad,Jubilee Hills,cardiology;ophthalmology,True,4.7
+KIMS,Hyderabad,Secunderabad,orthopedics;maternity,True,4.5
+Yashoda Hospitals,Hyderabad,Somajiguda,neurology;gastroenterology,True,4.4
+Christian Medical College,Vellore,Thottapalayam,general;all,False,4.9
+Tata Memorial Hospital,Mumbai,Parel,oncology,True,4.8
+Narayana Health,Bangalore,Bommasandra,cardiology;oncology,True,4.6
+Rajiv Gandhi Cancer Institute,Delhi,Rohini,oncology,True,4.5

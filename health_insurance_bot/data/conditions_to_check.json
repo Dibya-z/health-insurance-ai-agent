@@ -1,0 +1,73 @@
+{
+  "_meta": {
+    "purpose": "Canonical list of conditions, procedures, and exclusions checked against every uploaded policy.",
+    "usage": "rules_extractor.py iterates this list and asks the LLM to extract structured rules from each policy.",
+    "covers_user_stories": [
+      "Coverage check for surgical procedure",
+      "Claim calculation with sub-limits and co-pay",
+      "Pre-existing condition coverage",
+      "Document checklist for claim type",
+      "Network hospital lookup"
+    ]
+  },
+
+  "common_procedures": [
+    "cataract surgery",
+    "knee replacement",
+    "hip replacement",
+    "hernia repair",
+    "cholecystectomy gall bladder",
+    "appendectomy",
+    "hysterectomy",
+    "tonsillectomy",
+    "cardiac bypass surgery",
+    "angioplasty stent",
+    "kidney dialysis",
+    "cancer chemotherapy",
+    "stroke treatment",
+    "brain tumor surgery"
+  ],
+
+  "common_conditions": [
+    "diabetes",
+    "hypertension high blood pressure",
+    "thyroid disorders",
+    "asthma",
+    "kidney stones",
+    "PCOD polycystic ovarian disease",
+    "fibroids",
+    "osteoarthritis",
+    "GERD acid reflux",
+    "sinusitis",
+    "varicose veins",
+    "haemorrhoids piles"
+  ],
+
+  "common_exclusions_to_verify": [
+    "maternity pregnancy childbirth",
+    "IVF infertility treatment",
+    "cosmetic plastic surgery",
+    "routine dental treatment",
+    "obesity bariatric surgery",
+    "refractive eye surgery LASIK",
+    "hearing aids spectacles",
+    "vaccination immunization",
+    "OPD outpatient consultation",
+    "hazardous adventure sports",
+    "alcohol substance abuse",
+    "self-inflicted injury suicide"
+  ],
+
+  "general_coverage_items": [
+    "hospitalization room rent",
+    "ICU intensive care charges",
+    "day care procedures",
+    "ambulance road",
+    "emergency air ambulance",
+    "AYUSH ayurveda treatment",
+    "pre hospitalization expenses",
+    "post hospitalization expenses",
+    "organ donor expenses",
+    "domiciliary hospitalization at home"
+  ]
+}

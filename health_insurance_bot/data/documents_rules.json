@@ -1,0 +1,46 @@
+{
+  "cashless_hospitalization": [
+    "Pre-authorization form (signed by treating doctor)",
+    "Insurance card or e-card",
+    "Photo ID proof (Aadhaar / PAN / Passport / Driving Licence)",
+    "Doctor's prescription advising hospitalization",
+    "Initial diagnostic reports (relevant to admission)"
+  ],
+  "reimbursement_hospitalization": [
+    "Duly filled and signed claim form",
+    "Original discharge summary from the hospital",
+    "Original hospital bills with itemized breakup",
+    "Original payment receipts",
+    "All diagnostic reports (X-ray, MRI, CT, blood work)",
+    "Pharmacy bills with corresponding prescriptions",
+    "Doctor's consultation papers and operation notes",
+    "Photo ID proof and address proof",
+    "Cancelled cheque or bank passbook copy",
+    "FIR copy (only if accident-related)",
+    "All papers must be submitted within 30 days of discharge"
+  ],
+  "day_care_procedure": [
+    "Day-care claim form",
+    "Procedure summary or operation notes from the hospital",
+    "Bills with itemized breakup",
+    "Payment receipts",
+    "Diagnostic reports supporting the procedure",
+    "Doctor's prescription / advice slip"
+  ],
+  "pre_post_hospitalization": [
+    "Original prescriptions (within 30 days before and 60 days after hospitalization)",
+    "Pharmacy bills matching the prescriptions",
+    "Diagnostic test reports and bills",
+    "Doctor's follow-up consultation papers",
+    "Linkage proof to the main hospitalization claim"
+  ],
+  "maternity": [
+    "Maternity claim form",
+    "Discharge summary mentioning delivery type (normal / C-section)",
+    "Baby's birth certificate or hospital birth record",
+    "All antenatal investigation reports",
+    "Hospital bills with itemized breakup",
+    "Payment receipts",
+    "Photo ID proof of the mother"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "U1001": {
+    "name": "Asha Sharma",
+    "city": "Bangalore",
+    "sum_insured": 500000,
+    "co_pay": 0.10,
+    "no_claim_bonus": 0.20,
+    "policy_start": "2024-01-15",
+    "policy_type": "Family Floater",
+    "pre_existing": ["diabetes"]
+  },
+  "U1002": {
+    "name": "Ravi Kumar",
+    "city": "Mumbai",
+    "sum_insured": 1000000,
+    "co_pay": 0.05,
+    "no_claim_bonus": 0.00,
+    "policy_start": "2025-06-01",
+    "policy_type": "Individual",
+    "pre_existing": []
+  },
+  "U1003": {
+    "name": "Meera Iyer",
+    "city": "Chennai",
+    "sum_insured": 300000,
+    "co_pay": 0.20,
+    "no_claim_bonus": 0.10,
+    "policy_start": "2022-03-10",
+    "policy_type": "Senior Citizen",
+    "pre_existing": ["hypertension", "thyroid"]
+  }
+}

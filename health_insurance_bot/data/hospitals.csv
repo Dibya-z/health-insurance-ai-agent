@@ -1,0 +1,51 @@
+hospital_id,name,city,area,specialties,cashless,rating,phone
+H001,Apollo Hospital,Bangalore,Bannerghatta,cardiology;ophthalmology;orthopedics,true,4.6,080-26304050
+H002,Manipal Hospital,Bangalore,Whitefield,oncology;neurology;cardiology,true,4.5,080-25023344
+H003,Fortis Hospital,Bangalore,Cunningham Road,cardiology;urology,false,4.4,080-66214444
+H004,Narayana Health City,Bangalore,Bommasandra,cardiology;pediatrics,true,4.7,080-71222222
+H005,Sakra World Hospital,Bangalore,Marathahalli,orthopedics;neurology;gastroenterology,true,4.4,080-49694969
+H006,Aster CMI Hospital,Bangalore,Hebbal,oncology;gynecology,false,4.3,080-43420100
+H007,Columbia Asia Hospital,Bangalore,Yeshwanthpur,pediatrics;ophthalmology,true,4.2,080-39898969
+H008,BGS Gleneagles Global Hospital,Bangalore,Kengeri,cardiology;urology,true,4.3,080-26255555
+H009,Lilavati Hospital,Mumbai,Bandra,cardiology;orthopedics;ophthalmology,true,4.5,022-26568000
+H010,Kokilaben Dhirubhai Ambani Hospital,Mumbai,Andheri,oncology;neurology,true,4.7,022-30999999
+H011,P D Hinduja Hospital,Mumbai,Mahim,cardiology;urology,true,4.6,022-24447000
+H012,Jaslok Hospital,Mumbai,Pedder Road,oncology;gastroenterology,true,4.5,022-66573333
+H013,Breach Candy Hospital,Mumbai,Breach Candy,gynecology;pediatrics,false,4.4,022-23667800
+H014,Nanavati Max Hospital,Mumbai,Vile Parle,orthopedics;ophthalmology,true,4.3,022-26267500
+H015,Wockhardt Hospital,Mumbai,Mumbai Central,cardiology;urology,false,4.2,022-67264343
+H016,Bombay Hospital,Mumbai,Marine Lines,oncology;neurology;gynecology,true,4.3,022-22067676
+H017,AIIMS Delhi,Delhi,Ansari Nagar,oncology;cardiology;neurology,true,4.8,011-26588500
+H018,Max Super Speciality Hospital,Delhi,Saket,cardiology;orthopedics,true,4.5,011-26515050
+H019,Fortis Hospital,Delhi,Vasant Kunj,oncology;neurology,true,4.4,011-42776222
+H020,Indraprastha Apollo Hospital,Delhi,Sarita Vihar,cardiology;urology;ophthalmology,true,4.6,011-26925858
+H021,Sir Ganga Ram Hospital,Delhi,Rajinder Nagar,gynecology;pediatrics,false,4.4,011-25750000
+H022,BLK Super Speciality Hospital,Delhi,Pusa Road,oncology;gastroenterology,true,4.3,011-30403040
+H023,Medanta The Medicity,Delhi,Gurgaon,cardiology;neurology;orthopedics,false,4.6,0124-4141414
+H024,Apollo Hospitals,Chennai,Greams Road,cardiology;oncology,true,4.7,044-28293333
+H025,MIOT International,Chennai,Manapakkam,orthopedics;neurology,true,4.5,044-42002288
+H026,Fortis Malar Hospital,Chennai,Adyar,cardiology;urology,false,4.3,044-42892222
+H027,Sankara Nethralaya,Chennai,Nungambakkam,ophthalmology,true,4.8,044-28271616
+H028,Vijaya Hospital,Chennai,Vadapalani,cardiology;gynecology,true,4.4,044-23802800
+H029,Gleneagles Global Health City,Chennai,Perumbakkam,oncology;gastroenterology,false,4.3,044-44777000
+H030,Kauvery Hospital,Chennai,Alwarpet,pediatrics;cardiology,true,4.4,044-40006000
+H031,Apollo Hospitals,Hyderabad,Jubilee Hills,cardiology;oncology;neurology,true,4.6,040-23607777
+H032,KIMS Hospitals,Hyderabad,Secunderabad,oncology;orthopedics,true,4.5,040-44885000
+H033,Continental Hospitals,Hyderabad,Gachibowli,cardiology;urology,true,4.4,040-67000000
+H034,Care Hospitals,Hyderabad,Banjara Hills,cardiology;gastroenterology,false,4.3,040-30418888
+H035,Yashoda Hospitals,Hyderabad,Somajiguda,cardiology;oncology,true,4.4,040-23319999
+H036,Star Hospitals,Hyderabad,Banjara Hills,cardiology;ophthalmology,true,4.3,040-44777777
+H037,Rainbow Children's Hospital,Hyderabad,Banjara Hills,pediatrics,true,4.6,040-44665555
+H038,Ruby Hall Clinic,Pune,Sassoon Road,cardiology;oncology,true,4.5,020-66455555
+H039,Jehangir Hospital,Pune,Sassoon Road,oncology;neurology,true,4.4,020-66819999
+H040,Deenanath Mangeshkar Hospital,Pune,Erandwane,cardiology;orthopedics,true,4.5,020-49153000
+H041,Sahyadri Hospital,Pune,Deccan Gymkhana,urology;gastroenterology,false,4.3,020-67213000
+H042,Aditya Birla Memorial Hospital,Pune,Chinchwad,cardiology;ophthalmology,true,4.3,020-30717500
+H043,Columbia Asia Hospital,Pune,Kharadi,pediatrics;gynecology,false,4.2,020-71001000
+H044,Apollo Gleneagles Hospital,Kolkata,Salt Lake,cardiology;oncology;neurology,true,4.6,033-23203040
+H045,Fortis Hospital,Kolkata,Anandapur,cardiology;orthopedics,true,4.4,033-66284444
+H046,AMRI Hospital,Kolkata,Salt Lake,cardiology;urology,true,4.3,033-66800000
+H047,Belle Vue Clinic,Kolkata,Loudon Street,oncology;gynecology,false,4.4,033-22872321
+H048,Peerless Hospital,Kolkata,Panchasayar,cardiology;ophthalmology,true,4.3,033-40111222
+H049,Ruby General Hospital,Kolkata,Kasba,orthopedics;gastroenterology,false,4.2,033-39849000
+H050,Woodlands Multispeciality Hospital,Kolkata,Alipore,pediatrics;neurology,true,4.3,033-40330000
